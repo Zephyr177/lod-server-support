@@ -10,7 +10,7 @@ This snapshot describes build capabilities. A capability is not live validation.
 | 1.21.11 | 1.21.11 / 1.21.11 / 1.21.11 / 1.21.11 | 21 (21) | false | unsupported | true | paper, purpur, folia | True | `63f64a3a2b496fb326bc45ee2f024307559f3d03` |
 | 26.1 | 26.1.2 / 26.1.2 / 26.1.2 / 26.1.2 | 25 (21) | true | unsupported | true | paper, purpur, folia | True | `06c95eefa2bcc8da4fc1c8d4bd3f3b0c43ed1a63` |
 | 26.2 | 26.2 / 26.2 / 26.2 / 26.2 | 25 (21) | true | unsupported | true | paper, purpur, folia | True | `36db54149f41bb5951d1732f1ec36278e9d79aa8` |
-| 26.3 | 26.3 / 26.3 / 26.3 / 26.3 | 25 (21) | true | unsupported | true | paper, purpur | True | `7f45f22adf85ede4117879e0cf21e75e98690d2c` |
+| 26.3 | 26.3 / 26.3 / 26.3 / 26.3 | 25 (21) | true | unsupported | true | paper, purpur, folia | True | `640f5ea1401554ffd560c86b430d299a3660b924` |
 
 Dependency locks and feature-specific validation records are line-local under `config/compatibility/`. Installed jars are unverified until an exact run identity has accepted evidence. Blocked dependency profiles cannot be launched as validated profiles.
 
