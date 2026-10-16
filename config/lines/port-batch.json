@@ -5,7 +5,7 @@
     "1.21.11": "63f64a3a2b496fb326bc45ee2f024307559f3d03",
     "26.1": "06c95eefa2bcc8da4fc1c8d4bd3f3b0c43ed1a63",
     "26.2": "36db54149f41bb5951d1732f1ec36278e9d79aa8",
-    "26.3": "7f45f22adf85ede4117879e0cf21e75e98690d2c"
+    "26.3": "640f5ea1401554ffd560c86b430d299a3660b924"
   },
   "final_shared_invariants": [
     "common/build.gradle",
